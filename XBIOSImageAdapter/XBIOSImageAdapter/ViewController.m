@@ -27,7 +27,7 @@ base;\
     
     NSString *directory = @"/Users/xxb/Desktop/anxinFile/切图 2/xxxhdpi";
     
-    [self handleImagesAtDirectory:directory imageMultiple:4];\
+    [self handleImagesAtDirectory:directory imageMultiple:8];\
 }
 
 - (void)handleImagesAtDirectory:(NSString *)directoryPath imageMultiple:(int)imageMultiple
